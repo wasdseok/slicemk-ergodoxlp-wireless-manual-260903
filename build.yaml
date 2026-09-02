@@ -1,0 +1,4 @@
+include:
+  - board: raytac_mdbt50q_rx_green
+    shield: slicemk_ergodox_dongle
+    artifact-name: zmk-dongle-raytac-mdbt50q-rx-green-recovered-keymap

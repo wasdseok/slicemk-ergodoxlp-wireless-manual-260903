@@ -1,0 +1,5 @@
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  build:
+    uses: slicemk/zmk/.github/workflows/build-user-config.yml@71f8242b8ab2e9f9c86ebbb221ba15876413f295
